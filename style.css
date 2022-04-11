@@ -27,7 +27,13 @@
 
  body {
    font-family: sans-serif;
+   font-color: black;
  }
+
+ body {
+  background: url("https://us.123rf.com/450wm/vladimirgolovanov/vladimirgolovanov1806/vladimirgolovanov180600002/104702820-neon-soju-bottle-korean-rice-vodka-for-poster-or-social-image-night-illuminated-wall-street-sign-iso.jpg");
+  background-repeat: repeat;
+}
 
 section {
  padding-bottom: 50px;
